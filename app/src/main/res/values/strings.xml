@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AndroidPedia By Armas</string>
+    <string name="app_name2">AndroidPedia</string>
+    <string name="subtitle">¿Cuánto sabes de Android?</string>
+    <string name="student_name">Daniel Alexander Armas Domínguez</string>
+    <string name="student_id">00232622</string>
+    <string name="final_message1">Estudia un poco más y luego vuelve a intentar el quiz presionando el botón.</string>
+    <string name="final_message2">Puedes mejorar. Reinicia el quiz e intenta superarte!</string>
+    <string name="final_message3">Muy bien! Puedes reiniciar el quiz e intentar llegar al máximo puntaje!</string>
+    <string name="final_message4">Excelente! Respondiste todas las preguntas correctamente!</string>
+</resources>
